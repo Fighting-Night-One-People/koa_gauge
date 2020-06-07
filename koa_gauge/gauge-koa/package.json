@@ -1,0 +1,13 @@
+{
+  "name": "gauge-taiko-template",
+  "version": "0.0.1",
+  "description": "Starter template for writing JavaScript tests for Gauge",
+  "scripts": {
+    "test": "gauge run specs/example.spec",
+    "start": "gaueg run specs/index.spec"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "taiko": "latest"
+  }
+}
