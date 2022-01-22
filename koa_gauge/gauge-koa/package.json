@@ -7,7 +7,7 @@
     "start": "gaueg run specs/index.spec"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "taiko": "latest"
   }
 }
